@@ -1,5 +1,7 @@
 # Visualizing Sorting Algorithms
 
+![](./sorting.gif)
+
 ## Objective:
 ### Use Pygame to visualize the following sorting algorithms:
 #### 1. Merge Sort
@@ -10,5 +12,5 @@
 Demo: https://youtu.be/Pcrj5vNqLNY
 
 ## How to use:
-#### 1. pip install -r requirements.txt
-#### 2. execute sorting.py (select the different algorithms to visualize in the main function)
+#### 1. install libraries: pip install -r requirements.txt
+#### 2. run: python sorting.py (select the different algorithms to visualize in the main function)
