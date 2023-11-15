@@ -12,5 +12,8 @@
 Demo: https://youtu.be/Pcrj5vNqLNY
 
 ## How to use:
-#### 1. install libraries: pip install -r requirements.txt
-#### 2. run: python sorting.py (select the different algorithms to visualize in the main function)
+`pip install -r requirements.txt`
+
+`python sorting.py`
+
+(select the different algorithms to visualize in the main function)
