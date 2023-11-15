@@ -1,3 +1,4 @@
 .DS_Store
 videos/
 .idea/
+*/__pycache__/
